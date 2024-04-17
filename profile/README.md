@@ -11,7 +11,7 @@
 ### Frontend
 |<img src="https://avatars.githubusercontent.com/u/102217654?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/102288397?v=4" width="160">|
 |:-:|:-:|
-|[김석진](https://github.com/SEOKKAMONI)|[이상진](https://github.com/lsj0202)|
+|[김석진](https://github.com/SEOKKAMONI)|
 
 ### Backend
 |<img src="https://avatars.githubusercontent.com/u/101192100?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/95995962?v=4" width="160">|
