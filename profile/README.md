@@ -9,9 +9,9 @@
 
 ## 함께하는 팀원들
 ### Frontend
-|<img src="https://avatars.githubusercontent.com/u/102217654?v=4" width="160">|
-|:-:|
-|[김석진](https://github.com/SEOKKAMONI)|
+|<img src="https://avatars.githubusercontent.com/u/102217654?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/102218665?v=4" width="160">|
+|:-:|:-:|
+|[김석진](https://github.com/SEOKKAMONI)|[황현민](https://github.com/hyunmin200)|
 
 ### Backend
 |<img src="https://avatars.githubusercontent.com/u/101192100?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/95995962?v=4" width="160">|
