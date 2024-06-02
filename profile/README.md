@@ -2,8 +2,7 @@
 
 # 식견(Sickgyun)
 
-식견은 교내 학생들의 다양한 식견을 넓혀주기 위한 서비스에요.<br/>
-학생들끼리의 커피챗, 취업 Q&A 등을 통해 서로의 인사이트를 공유하며 식견을 넓혀가는 것을 목표로 만들어 나가고 있어요.
+식견은 교내 학생들 간의 커피챗을 장려하여 학생들 간의 인사이트 공유를 활성화하자는 취지로 만들어진 서비스에요.
 
 <br>
 
@@ -14,9 +13,9 @@
 |[김석진](https://github.com/SEOKKAMONI)|[황현민](https://github.com/hyunmin200)|
 
 ### Backend
-|<img src="https://avatars.githubusercontent.com/u/101192100?v=4" width="160">|<img src="https://avatars.githubusercontent.com/u/95995962?v=4" width="160">|
-|:-:|:-:|
-|[이창보](https://github.com/jacobhboy)|[강웅빈](https://github.com/Woongbin06)|
+|<img src="https://avatars.githubusercontent.com/u/101192100?v=4" width="160">
+|:-:
+|[이창보](https://github.com/jacobhboy)
 
 ### Design
 |<img src="https://avatars.githubusercontent.com/u/102123549?v=4" width="160">|
